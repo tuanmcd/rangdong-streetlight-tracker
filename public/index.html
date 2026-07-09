@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rạng Đông · Theo dõi giá đèn đường</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="viz-root">
+    <header class="topbar">
+      <div>
+        <h1>Theo dõi giá đèn đường LED</h1>
+        <p class="subtitle">Rạng Đông so với Điện Quang · HALEDCO · Philips · Duhal — LED điện lưới &amp; năng lượng mặt trời</p>
+      </div>
+      <div class="meta-box">
+        <span id="last-updated" class="meta-line"></span>
+        <span id="demo-note" class="meta-line muted"></span>
+      </div>
+    </header>
+
+    <!-- Filters: one row above the charts -->
+    <section class="filter-row" aria-label="Bộ lọc">
+      <label class="filter">
+        <span>Loại đèn</span>
+        <select id="type-select">
+          <option value="all" selected>Cả hai loại</option>
+          <option value="LED điện lưới">LED điện lưới</option>
+          <option value="NLMT">Năng lượng mặt trời</option>
+        </select>
+      </label>
+      <label class="filter">
+        <span>Kỳ so sánh</span>
+        <select id="period-select">
+          <option value="30" selected>30 ngày</option>
+          <option value="60">60 ngày</option>
+          <option value="90">90 ngày</option>
+          <option value="custom">Tùy chọn…</option>
+        </select>
+      </label>
+      <label class="filter" id="custom-period-wrap" hidden>
+        <span>Số ngày</span>
+        <input type="number" id="custom-period" min="2" max="365" value="30">
+      </label>
+      <label class="filter">
+        <span>Phân khúc</span>
+        <select id="watt-select">
+          <option value="all" selected>Tất cả công suất</option>
+        </select>
+      </label>
+    </section>
+
+    <!-- KPI tiles -->
+    <section class="kpi-row" id="kpi-row" aria-label="Chỉ số chính"></section>
+
+    <!-- Price chart -->
+    <section class="card">
+      <div class="card-head">
+        <h2>Giá trung bình theo thương hiệu</h2>
+        <div class="legend" id="chart-legend"></div>
+      </div>
+      <div id="chart-wrap" class="chart-wrap">
+        <svg id="price-chart" role="img" aria-label="Biểu đồ giá trung bình đèn đường theo thương hiệu theo thời gian"></svg>
+        <div id="chart-tooltip" class="tooltip" hidden></div>
+      </div>
+    </section>
+
+    <div class="two-col">
+      <!-- Comparison table -->
+      <section class="card">
+        <div class="card-head">
+          <h2>So sánh biến động <span id="table-period-label" class="muted"></span></h2>
+        </div>
+        <div class="table-scroll">
+          <table id="compare-table">
+            <thead>
+              <tr>
+                <th>Sản phẩm</th>
+                <th class="num">Giá hiện tại</th>
+                <th class="num">Đầu kỳ</th>
+                <th class="num">Biến động</th>
+                <th class="num">Min–Max kỳ</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- Recommendations -->
+      <section class="card">
+        <div class="card-head"><h2>Khuyến nghị cho Rạng Đông</h2></div>
+        <ul id="reco-list" class="reco-list"></ul>
+      </section>
+    </div>
+
+    <!-- Add product form -->
+    <section class="card">
+      <div class="card-head"><h2>Thêm sản phẩm theo dõi</h2></div>
+      <form id="add-form" class="add-form">
+        <label>Thương hiệu
+          <select name="brand" required>
+            <option value="Rạng Đông">Rạng Đông</option>
+            <option value="Điện Quang">Điện Quang</option>
+            <option value="HALEDCO">HALEDCO</option>
+            <option value="Philips">Philips</option>
+            <option value="Duhal">Duhal</option>
+          </select>
+        </label>
+        <label>Loại đèn
+          <select name="type" required>
+            <option value="LED điện lưới">LED điện lưới</option>
+            <option value="NLMT">Năng lượng mặt trời</option>
+          </select>
+        </label>
+        <label>Tên sản phẩm
+          <input name="name" required placeholder="VD: CSD02 200W" maxlength="80">
+        </label>
+        <label>Công suất (W)
+          <input name="watt" type="number" required min="1" max="5000" placeholder="150">
+        </label>
+        <label>Giá hiện tại (đ)
+          <input name="price" type="number" required min="10000" step="1000" placeholder="4500000">
+        </label>
+        <label class="wide">Link nguồn (tùy chọn)
+          <input name="url" type="url" placeholder="https://...">
+        </label>
+        <button type="submit">＋ Theo dõi sản phẩm</button>
+        <span id="form-msg" class="form-msg" role="status"></span>
+      </form>
+    </section>
+
+    <footer class="foot muted">
+      Dữ liệu thu thập từ trang công khai của nhà bán lẻ · Giá gắn nhãn "ước tính" là suy luận từ khoảng giá thị trường
+      hoặc giá niêm yết trước chiết khấu · Đồng bộ Notion chạy kèm phiên cập nhật hằng ngày
+    </footer>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

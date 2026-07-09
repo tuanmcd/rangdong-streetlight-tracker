@@ -1,0 +1,2681 @@
+{
+  "meta": {
+    "lastUpdated": "2026-07-09",
+    "currency": "VND",
+    "note": "Giá ngày 2026-07-09 thu thập thật từ web công khai. Lịch sử trước đó là mô phỏng minh hoạ (simulated: true), sẽ được thay bằng dữ liệu thật khi cập nhật hằng ngày. Điện Quang/Philips chưa có dữ liệu đèn đường NLMT công khai."
+  },
+  "products": [
+    {
+      "id": "rd-csd06-100",
+      "brand": "Rạng Đông",
+      "name": "CSD06 100W",
+      "type": "LED điện lưới",
+      "watt": 100,
+      "url": "https://rangdongs.com.vn/danh-muc/den-duong-led-rang-dong/",
+      "estimated": false,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 4300000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 4330000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 4360000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 4370000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 4400000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 4410000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 4390000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 4420000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 4430000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 4420000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 4420000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 4410000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 4430000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 4420000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 4410000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 4420000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 4410000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 4430000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 4440000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 4420000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 4410000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 4380000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 4370000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 4380000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 4410000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 4440000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 4470000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 4500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 4530000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 4540000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 4530000,
+          "source": "rangdongs.com.vn"
+        }
+      ]
+    },
+    {
+      "id": "rd-csd06-150",
+      "brand": "Rạng Đông",
+      "name": "CSD06 150W",
+      "type": "LED điện lưới",
+      "watt": 150,
+      "url": "https://rangdongs.com.vn/danh-muc/den-duong-led-rang-dong/",
+      "estimated": false,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 4960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 4950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 4980000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 5000000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 5020000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 4990000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 4980000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 4940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 4950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 4930000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 4950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 4940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 4970000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 4940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 4940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 4950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 4970000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 5010000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 4990000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 5020000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 5030000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 5000000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 4970000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 5010000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 5000000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 5000000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 5020000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 5030000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 5030000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 5030000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 5032000,
+          "source": "rangdongs.com.vn"
+        }
+      ]
+    },
+    {
+      "id": "dq-alley2-100",
+      "brand": "Điện Quang",
+      "name": "ALLEY 2 100W",
+      "type": "LED điện lưới",
+      "watt": 100,
+      "url": "https://dienquang.com/products/den-duong-led-alley-2-100dl-v02-100w",
+      "estimated": true,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 3630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 3640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 3630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 3660000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 3640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 3660000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 3670000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 3700000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 3700000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 3730000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 3740000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 3710000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 3670000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 3630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 3660000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 3680000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 3700000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 3680000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 3710000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 3720000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 3730000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 3740000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 3770000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 3780000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 3750000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 3740000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 3760000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 3760000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 3770000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 3780000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 3800000,
+          "source": "ước tính (hãng báo giá liên hệ)"
+        }
+      ]
+    },
+    {
+      "id": "dq-alley3-150",
+      "brand": "Điện Quang",
+      "name": "ALLEY 3 150W",
+      "type": "LED điện lưới",
+      "watt": 150,
+      "url": "https://dienquang.com/products/den-duong-led-alley-2-100dl-v02-100w",
+      "estimated": true,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 4800000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 4840000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 4870000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 4840000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 4810000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 4810000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 4810000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 4780000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 4760000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 4780000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 4760000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 4790000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 4750000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 4760000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 4770000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 4730000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 4720000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 4730000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 4750000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 4800000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 4800000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 4760000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 4790000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 4790000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 4750000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 4790000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 4800000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 4810000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 4780000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 4810000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 4800000,
+          "source": "ước tính (hãng báo giá liên hệ)"
+        }
+      ]
+    },
+    {
+      "id": "hl-street-100",
+      "brand": "HALEDCO",
+      "name": "Đèn đường LED 100W",
+      "type": "LED điện lưới",
+      "watt": 100,
+      "url": "https://haledco.com/den-led/den-duong-led/100w",
+      "estimated": true,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 2460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 2450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 2450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 2460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 2430000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 2460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 2490000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 2500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 2490000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 2480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 2470000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 2460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 2440000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 2440000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 2450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 2430000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 2420000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 2440000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 2460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 2470000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 2450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 2430000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 2450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 2450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 2460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 2440000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 2470000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 2490000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 2490000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 2510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 2500000,
+          "source": "haledco.com (khoảng giá)"
+        }
+      ]
+    },
+    {
+      "id": "hl-street-150",
+      "brand": "HALEDCO",
+      "name": "Đèn đường LED 150W",
+      "type": "LED điện lưới",
+      "watt": 150,
+      "url": "https://haledco.com/den-led/den-duong-led/150w",
+      "estimated": true,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 3460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 3480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 3450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 3480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 3510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 3500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 3530000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 3490000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 3510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 3480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 3520000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 3520000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 3480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 3460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 3410000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 3450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 3430000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 3430000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 3460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 3460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 3470000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 3460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 3500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 3530000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 3510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 3500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 3470000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 3500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 3500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 3490000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 3500000,
+          "source": "haledco.com (khoảng 2,5–8tr)"
+        }
+      ]
+    },
+    {
+      "id": "ph-brp121-100",
+      "brand": "Philips",
+      "name": "BRP121 LED130 100W",
+      "type": "LED điện lưới",
+      "watt": 100,
+      "url": "https://philipsvietnam.com/den-duong-led",
+      "estimated": true,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 5460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 5410000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 5430000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 5390000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 5420000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 5440000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 5430000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 5470000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 5510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 5540000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 5540000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 5500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 5470000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 5470000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 5510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 5550000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 5540000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 5550000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 5540000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 5540000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 5580000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 5540000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 5530000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 5520000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 5500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 5520000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 5460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 5430000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 5430000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 5450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 5500000,
+          "source": "ước tính (khoảng giá thị trường)"
+        }
+      ]
+    },
+    {
+      "id": "ph-brp132-140",
+      "brand": "Philips",
+      "name": "BRP132 LED175 140W",
+      "type": "LED điện lưới",
+      "watt": 140,
+      "url": "https://denled.com/den-duong-led/den-duong-led-philips-brp132-140w",
+      "estimated": false,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 6880000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 6890000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 6930000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 6950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 6880000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 6820000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 6760000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 6700000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 6710000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 6730000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 6780000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 6800000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 6850000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 6870000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 6800000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 6840000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 6880000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 6870000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 6900000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 6940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 6970000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 6900000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 6910000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 6860000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 6830000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 6870000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 6880000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 6910000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 6890000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 6900000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 6860000,
+          "source": "denled.com"
+        }
+      ]
+    },
+    {
+      "id": "dh-sdhq100",
+      "brand": "Duhal",
+      "name": "SDHQ100 100W",
+      "type": "LED điện lưới",
+      "watt": 100,
+      "url": "https://duhalled.com/collections/den-duong-led-duhal",
+      "estimated": true,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 4030000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 4010000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 3990000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 3930000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 3890000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 3860000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 3910000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 3910000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 3900000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 3930000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 3930000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 3990000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 3940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 3930000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 3970000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 3910000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 3960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 3980000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 3960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 3980000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 4020000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 3980000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 3990000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 4010000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 3960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 3900000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 3900000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 3910000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 3940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 3940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 3950000,
+          "source": "ước tính (niêm yết 7,89tr trước CK)"
+        }
+      ]
+    },
+    {
+      "id": "dh-sdhq150",
+      "brand": "Duhal",
+      "name": "SDHQ150 150W",
+      "type": "LED điện lưới",
+      "watt": 150,
+      "url": "https://ledduhal.net/san-pham/den-duong-led-150w-sdhq150/",
+      "estimated": false,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 2110000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 2130000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 2150000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 2150000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 2140000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 2170000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 2210000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 2210000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 2200000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 2230000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 2210000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 2190000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 2170000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 2160000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 2180000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 2170000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 2200000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 2200000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 2220000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 2250000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 2280000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 2320000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 2300000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 2280000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 2280000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 2250000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 2260000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 2280000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 2300000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 2320000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 2309000,
+          "source": "ledduhal.net"
+        }
+      ]
+    },
+    {
+      "id": "rd-csd05sl-100",
+      "brand": "Rạng Đông",
+      "name": "CSD05.SL.RF.V3 100W",
+      "type": "NLMT",
+      "watt": 100,
+      "url": "https://ledchinhhang.com/den-nang-luong-mat-troi-rang-dong-chinh-hang-bang-gia-2026",
+      "estimated": false,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 1650000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 1650000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 1650000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 1620000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 1620000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 1620000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 1650000,
+          "source": "ledchinhhang.com"
+        }
+      ]
+    },
+    {
+      "id": "rd-csd05sl-200",
+      "brand": "Rạng Đông",
+      "name": "CSD05.SL.RF.V3 200W",
+      "type": "NLMT",
+      "watt": 200,
+      "url": "https://ledchinhhang.com/den-nang-luong-mat-troi-rang-dong-chinh-hang-bang-gia-2026",
+      "estimated": false,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 2010000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 2000000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 1990000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 1980000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 1990000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 2000000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 1990000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 1990000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 1980000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 1980000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 1970000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 1970000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 1970000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 1960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 1950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 1950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 1940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 1940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 1950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 1950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 1950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 1940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 1930000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 1930000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 1940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 1950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 1950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 1960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 1970000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 1960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 1960000,
+          "source": "ledchinhhang.com"
+        }
+      ]
+    },
+    {
+      "id": "hl-nlmt-100",
+      "brand": "HALEDCO",
+      "name": "Đèn đường NLMT 100W",
+      "type": "NLMT",
+      "watt": 100,
+      "url": "https://haledco.com/den-led/nang-luong-mat-troi/100w-hlmt",
+      "estimated": true,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 1460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 1470000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 1490000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 1490000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 1500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 1510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 1530000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 1510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 1500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 1480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 1460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 1440000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 1440000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 1440000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 1450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 1460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 1450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 1460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 1460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 1480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 1490000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 1500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 1510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 1510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 1510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 1530000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 1540000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 1530000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 1530000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 1510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 1500000,
+          "source": "haledco.com (từ 680k)"
+        }
+      ]
+    },
+    {
+      "id": "hl-nlmt-200",
+      "brand": "HALEDCO",
+      "name": "Đèn đường NLMT 200W",
+      "type": "NLMT",
+      "watt": 200,
+      "url": "https://haledco.com/den-led/nang-luong-mat-troi/200w-hlmt",
+      "estimated": true,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 2660000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 2630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 2620000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 2600000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 2580000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 2600000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 2590000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 2550000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 2540000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 2560000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 2550000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 2580000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 2560000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 2550000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 2540000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 2570000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 2540000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 2510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 2480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 2510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 2530000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 2500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 2470000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 2450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 2410000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 2410000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 2390000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 2420000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 2420000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 2400000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 2400000,
+          "source": "haledco.com (khoảng 1,1–3,7tr)"
+        }
+      ]
+    },
+    {
+      "id": "dh-dhl1001-100",
+      "brand": "Duhal",
+      "name": "DHL1001 NLMT 100W",
+      "type": "NLMT",
+      "watt": 100,
+      "url": "https://denledduhal.com.vn/bang-gia-den-led-duhal-chinh-hang-nam-2025/",
+      "estimated": false,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 3320000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 3360000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 3400000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 3440000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 3460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 3500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 3450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 3480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 3440000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 3450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 3430000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 3380000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 3350000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 3370000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 3360000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 3420000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 3460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 3480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 3480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 3480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 3490000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 3480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 3480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 3530000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 3560000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 3590000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 3540000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 3580000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 3640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 3700000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 3705000,
+          "source": "denledduhal.com.vn"
+        }
+      ]
+    },
+    {
+      "id": "dh-dhl1501-150",
+      "brand": "Duhal",
+      "name": "DHL1501 NLMT 150W",
+      "type": "NLMT",
+      "watt": 150,
+      "url": "https://denledduhal.com.vn/bang-gia-den-led-duhal-chinh-hang-nam-2025/",
+      "estimated": false,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 4760000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 4740000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 4700000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 4730000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 4670000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 4710000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 4660000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 4670000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 4700000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 4720000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 4770000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 4690000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 4730000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 4800000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 4740000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 4670000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 4690000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 4760000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 4700000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 4640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 4570000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 4580000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 4500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 4560000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 4570000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 4600000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 4630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 4590000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 4550000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 4510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 4518000,
+          "source": "denledduhal.com.vn"
+        }
+      ]
+    }
+  ]
+}
