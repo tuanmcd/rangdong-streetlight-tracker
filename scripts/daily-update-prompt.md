@@ -5,7 +5,13 @@ Prompt này dành cho phiên Claude chạy theo lịch (scheduled task). Thực 
 ## 1. Đọc danh sách sản phẩm đang theo dõi
 
 Đọc `C:\Users\ADMIN\.claude\rangdong-streetlight-tracker\data\prices.json` — mỗi phần tử
-trong `products` có `id`, `brand`, `name`, `type` (LED điện lưới / NLMT), `watt`, `url`.
+trong `products` có `id`, `brand`, `name`, `type` (LED điện lưới / NLMT), `watt`, `url`,
+và có thể có `"priority": "low"`.
+
+Ưu tiên cập nhật **mỗi ngày**: Rạng Đông, Elink, Ero, Asia (đối thủ chính phân khúc dân
+dụng), HALEDCO, Philips. Sản phẩm có `"priority": "low"` (hiện là Điện Quang, Duhal) chỉ
+cần cập nhật khi còn thời gian/ngân sách gọi công cụ — không bắt buộc mỗi phiên, không tính
+là lỗi nếu bỏ qua.
 
 ## 2. Thu thập giá mới nhất
 

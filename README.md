@@ -1,8 +1,10 @@
 # Rạng Đông — Theo dõi giá đèn đường LED
 
-Ứng dụng theo dõi và so sánh giá đèn đường của Rạng Đông với 4 đối thủ:
-**Điện Quang, HALEDCO, Philips, Duhal** — bao phủ cả hai dòng
-**LED điện lưới** và **LED năng lượng mặt trời**, kèm khuyến nghị tự động và đồng bộ Notion.
+Ứng dụng theo dõi và so sánh giá đèn đường của Rạng Đông với 7 đối thủ:
+**Elink, Ero, Asia** (đối thủ chính phân khúc LED điện lưới dân dụng — Elink/Ero ở miền Nam,
+Asia ở miền Bắc) và **Điện Quang, HALEDCO, Philips, Duhal** (ưu tiên thấp hơn, cạnh tranh không
+nhiều ở phân khúc dân dụng) — bao phủ cả hai dòng **LED điện lưới** và **LED năng lượng mặt trời**,
+kèm khuyến nghị tự động và đồng bộ Notion.
 
 ## Chạy ứng dụng
 
@@ -54,11 +56,18 @@ rangdong-streetlight-tracker/
 
 ## Ghi chú dữ liệu
 
-- Giá ngày **09/07/2026** là giá thật khảo sát từ web bán lẻ công khai
-  (rangdongs.com.vn, ledchinhhang.com, denled.com, ledduhal.net, denledduhal.com.vn, haledco.com).
+- Giá ngày **09–10/07/2026** là giá thật khảo sát từ web bán lẻ công khai
+  (rangdongs.com.vn, ledchinhhang.com, denled.com, ledduhal.net, denledduhal.com.vn, haledco.com,
+  led.elink.com.vn, denasialighting.com, dentricuong.vn, vietsolar.vn...).
 - Lịch sử **trước 09/07/2026 là mô phỏng minh hoạ** (đánh dấu `simulated: true`) —
-  sẽ được thay dần bằng dữ liệu thật khi cập nhật hằng ngày chạy.
+  sẽ được thay dần bằng dữ liệu thật khi cập nhật hằng ngày chạy. Elink/Ero/Asia mới thêm
+  10/07/2026 nên chỉ có 1 điểm giá thật, chưa có lịch sử.
 - Sản phẩm gắn nhãn **"ước tính"**: hãng không niêm yết giá công khai (Điện Quang báo giá
-  liên hệ; HALEDCO công bố khoảng giá; Duhal SDHQ100 lấy giá niêm yết trước chiết khấu).
+  liên hệ; HALEDCO công bố khoảng giá; Duhal SDHQ100 lấy giá niêm yết trước chiết khấu;
+  **Ero chưa tìm được website/nguồn giá công khai nào** — giá đang là ước tính tạm thời,
+  cần thay bằng giá thật khi có nguồn).
 - **Điện Quang và Philips chưa có sản phẩm đèn đường NLMT** trong dữ liệu do
   không tìm được giá công khai — bổ sung khi có nguồn.
+- Sản phẩm có `"priority": "low"` trong `data/prices.json` (Điện Quang, Duhal) không
+  bắt buộc cập nhật mỗi ngày — quy trình hằng ngày ưu tiên các đối thủ dân dụng chính
+  (Elink, Ero, Asia, HALEDCO, Philips) và Rạng Đông trước.

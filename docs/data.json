@@ -2,7 +2,7 @@
   "meta": {
     "lastUpdated": "2026-07-10",
     "currency": "VND",
-    "note": "Giá ngày 2026-07-09/07-10 thu thập thật từ web công khai. Lịch sử trước đó là mô phỏng minh hoạ (simulated: true), sẽ được thay bằng dữ liệu thật khi cập nhật hằng ngày. Điện Quang/Philips BRP121-100W chưa có giá niêm yết công khai cho đúng model (chỉ báo giá liên hệ)."
+    "note": "Giá ngày 2026-07-09/07-10 thu thập thật từ web công khai. Lịch sử trước đó là mô phỏng minh hoạ (simulated: true), sẽ được thay bằng dữ liệu thật khi cập nhật hằng ngày. Điện Quang/Philips BRP121-100W chưa có giá niêm yết công khai cho đúng model (chỉ báo giá liên hệ). Từ 10/07/2026: bổ sung 3 đối thủ LED điện lưới dân dụng chính — Elink, Ero (miền Nam), Asia (miền Bắc); Ero chưa có nguồn công khai nên đang để ước tính. Điện Quang và Duhal hạ ưu tiên cập nhật hằng ngày (priority: low) vì không phải đối thủ cạnh tranh chính ở phân khúc dân dụng."
   },
   "products": [
     {
@@ -357,6 +357,7 @@
       "watt": 100,
       "url": "https://dienquang.com/products/den-duong-led-alley-2-100dl-v02-100w",
       "estimated": true,
+      "priority": "low",
       "addedDate": "2026-06-09",
       "priceHistory": [
         {
@@ -524,6 +525,7 @@
       "watt": 150,
       "url": "https://dienquang.com/products/den-duong-led-alley-2-100dl-v02-100w",
       "estimated": true,
+      "priority": "low",
       "addedDate": "2026-06-09",
       "priceHistory": [
         {
@@ -1374,6 +1376,7 @@
       "watt": 100,
       "url": "https://duhalled.com/collections/den-duong-led-duhal",
       "estimated": true,
+      "priority": "low",
       "addedDate": "2026-06-09",
       "priceHistory": [
         {
@@ -1546,6 +1549,7 @@
       "watt": 150,
       "url": "https://ledduhal.net/san-pham/den-duong-led-150w-sdhq150/",
       "estimated": false,
+      "priority": "low",
       "addedDate": "2026-06-09",
       "priceHistory": [
         {
@@ -2406,6 +2410,7 @@
       "watt": 100,
       "url": "https://denledduhal.com.vn/bang-gia-den-led-duhal-chinh-hang-nam-2025/",
       "estimated": false,
+      "priority": "low",
       "addedDate": "2026-06-09",
       "priceHistory": [
         {
@@ -2578,6 +2583,7 @@
       "watt": 150,
       "url": "https://denledduhal.com.vn/bang-gia-den-led-duhal-chinh-hang-nam-2025/",
       "estimated": false,
+      "priority": "low",
       "addedDate": "2026-06-09",
       "priceHistory": [
         {
@@ -2739,6 +2745,108 @@
           "date": "2026-07-10",
           "price": 4518000,
           "source": "vietsolar.vn"
+        }
+      ]
+    },
+    {
+      "id": "elink-street-100",
+      "brand": "Elink",
+      "name": "Đèn đường LED 100W",
+      "type": "LED điện lưới",
+      "watt": 100,
+      "url": "https://led.elink.com.vn/shop/den-duong-led-100w/",
+      "estimated": false,
+      "addedDate": "2026-07-10",
+      "priceHistory": [
+        {
+          "date": "2026-07-10",
+          "price": 3506000,
+          "source": "led.elink.com.vn"
+        }
+      ]
+    },
+    {
+      "id": "elink-street-150",
+      "brand": "Elink",
+      "name": "Đèn đường LED 150W",
+      "type": "LED điện lưới",
+      "watt": 150,
+      "url": "https://led.elink.com.vn/shop/den-duong-led-150w/",
+      "estimated": false,
+      "addedDate": "2026-07-10",
+      "priceHistory": [
+        {
+          "date": "2026-07-10",
+          "price": 4876000,
+          "source": "led.elink.com.vn"
+        }
+      ]
+    },
+    {
+      "id": "asia-dd100-100",
+      "brand": "Asia",
+      "name": "Đèn đường LED 100W DD100-01",
+      "type": "LED điện lưới",
+      "watt": 100,
+      "url": "https://denasialighting.com/san-pham/den-duong-led-asia-100w-dd100/",
+      "estimated": false,
+      "addedDate": "2026-07-10",
+      "priceHistory": [
+        {
+          "date": "2026-07-10",
+          "price": 1274000,
+          "source": "denasialighting.com"
+        }
+      ]
+    },
+    {
+      "id": "asia-dds150-150",
+      "brand": "Asia",
+      "name": "Đèn đường LED 150W DDS150",
+      "type": "LED điện lưới",
+      "watt": 150,
+      "url": "https://denasialighting.com/san-pham/den-duong-led-asia-150w-dds150/",
+      "estimated": false,
+      "addedDate": "2026-07-10",
+      "priceHistory": [
+        {
+          "date": "2026-07-10",
+          "price": 1422400,
+          "source": "denasialighting.com"
+        }
+      ]
+    },
+    {
+      "id": "ero-street-100",
+      "brand": "Ero",
+      "name": "Đèn đường LED 100W",
+      "type": "LED điện lưới",
+      "watt": 100,
+      "url": "",
+      "estimated": true,
+      "addedDate": "2026-07-10",
+      "priceHistory": [
+        {
+          "date": "2026-07-10",
+          "price": 2600000,
+          "source": "ước tính (chưa tìm được nguồn công khai, liên hệ đại lý)"
+        }
+      ]
+    },
+    {
+      "id": "ero-street-150",
+      "brand": "Ero",
+      "name": "Đèn đường LED 150W",
+      "type": "LED điện lưới",
+      "watt": 150,
+      "url": "",
+      "estimated": true,
+      "addedDate": "2026-07-10",
+      "priceHistory": [
+        {
+          "date": "2026-07-10",
+          "price": 3600000,
+          "source": "ước tính (chưa tìm được nguồn công khai, liên hệ đại lý)"
         }
       ]
     }

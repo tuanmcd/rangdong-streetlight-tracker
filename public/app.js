@@ -1,9 +1,9 @@
 /* Rang Dong Street Light Price Tracker - dashboard logic */
 'use strict';
 
-const BRANDS = ['Rạng Đông', 'Điện Quang', 'HALEDCO', 'Philips', 'Duhal'];
+const BRANDS = ['Rạng Đông', 'Elink', 'Ero', 'Asia', 'Điện Quang', 'HALEDCO', 'Philips', 'Duhal'];
 const HOME_BRAND = 'Rạng Đông';
-const SERIES_VARS = ['--series-1', '--series-2', '--series-3', '--series-4', '--series-5'];
+const SERIES_VARS = ['--series-1', '--series-2', '--series-3', '--series-4', '--series-5', '--series-6', '--series-7', '--series-8'];
 
 const state = { data: null, periodDays: 30, watt: 'all', type: 'all', staticMode: false };
 
